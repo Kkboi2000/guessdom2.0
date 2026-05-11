@@ -1,0 +1,19 @@
+{
+  "name": "Guessdom 2",
+  "short_name": "Guessdom",
+  "description": "The ultimate party guessing game",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#1a0a00",
+  "theme_color": "#e8521a",
+  "icons": [
+    {
+      "src": "assets/icons/icon.webp",
+      "sizes": "512x512",
+      "type": "image/webp",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["games", "entertainment"]
+}
